@@ -26,4 +26,8 @@
 - press `esc` & press `colom :` & press `wq`
 - `:wq`
 
+## git restore
+- `git restore filename.txt` for single file restore to working area
+- `git restore` restore all files not comited
+
 
