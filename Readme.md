@@ -26,8 +26,11 @@
 - press `esc` & press `colom :` & press `wq`
 - `:wq`
 
-## git restore
-- `git restore filename.txt` for single file restore to working area
+## git restore give last commited 
+- `git restore filename.txt` for remove all files from stagging to commited . use when your code pices is dirty 
 - `git restore` restore all files not comited
+
+## git restore from stageing area to working area
+- `git restore --staged filename.txt` that back to staggeing area to working area.
 
 
