@@ -22,4 +22,8 @@
 
 - `git commit -m "your message" ` always commit message before push
 
+## quit vim editor
+- press `esc` & press `colom :` & press `wq`
+- `:wq`
+
 
