@@ -8,14 +8,18 @@
 ## To see Status
  - `git status` to view your status and data nad file changes 
 
+
 ## To track file
 - `git add .` to track all files
 - `git add filenam.txt` for add file and track
 
 ## To untrack all files
 - `git rm -rf . ` that helps to untrack all files
-
-## To Untrack  one file
 - `git rm --cached filename.txt`  to untrack file   
+
+
+## commit message before push
+
+- `git commit -m "your message" ` always commit message before push
 
 
